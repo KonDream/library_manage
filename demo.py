@@ -3,8 +3,8 @@ import tkinter as tk
 
 mydb = mysql.connector.connect(
     host="127.0.0.1",  # 数据库主机地址
-    user="root",  # 数据库用户名
-    passwd="klx",  # 数据库密码
+    user="xxx",  # 数据库用户名
+    passwd="xxx",  # 数据库密码
     database="books"  # 连接数据库
 )
 
